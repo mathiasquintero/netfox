@@ -33,7 +33,7 @@ To integrate netfox into your Xcode project using CocoaPods, specify it in your 
 
 <pre>
 use_frameworks!
-pod 'netfox'
+pod 'netfox', :git=> 'https://github.com/mathiasquintero/netfox.git'
 </pre>
 
 Then, run the following command:
